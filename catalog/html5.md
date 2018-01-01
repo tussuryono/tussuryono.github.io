@@ -41,3 +41,6 @@ HTML Editor yang sering dipergunakan adalah
 5. Netbeans IDE
 6. Visual Studio Code
 
+### HTML Attributes
+Seluruh HTML elements dapat memiliki attributes yang berfungsi untuk memberikan informasi tambahan tentang suatu element HTML. Attribute didefinisikan dalam `start tag` dalam bentuk seperti : `name="value"`
+
