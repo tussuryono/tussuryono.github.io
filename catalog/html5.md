@@ -31,3 +31,13 @@ HTML tag dibentuk dengan format sebagai berikut :
 <tagname>berisi konten yang akan ditampilkan...</tagname>
 ```
 Bentuk dari tag HTML berupa pasangan tagname yang dapat dicontohkan dengan `<h1>` dan `</h1>`. Tag pertama `<h1>` disebut sebagai `start tag` sedangkan tag kedua `</h2>` disebut sebagai `end tag` dimana penulisannya sama dengan start tag dengan ditambahkan tanda slash (`/`) didepannya.
+
+### HTML Editor
+HTML Editor yang sering dipergunakan adalah
+#### 1. Notepad++
+#### 2. Atom
+#### 3. Sublime Text
+#### 4. TextEdit
+#### 5. Netbeans IDE
+#### 6. Visual Studio Code
+
