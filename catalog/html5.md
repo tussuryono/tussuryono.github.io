@@ -25,3 +25,9 @@ Pada syntax HTML diatas dapat diterjemahkan sebagai berikut :
 - `<body>` element merupakan bagian yang akan ditampilkan secara visual dalam halaman HTML.
 - `<h1>` element mendefinisikan heading yang ditampilkan dalam contoh `<h1>` merupakan ukuran yang paling besar, range normal dalam sebuah halaman HTML adalah `<h1>` sampai dengan `<h6>`.
 - `<p>` element berfungsi untuk mendefinisikan `paragraph`.
+
+HTML tag dibentuk dengan format sebagai berikut :
+```html
+<tagname>berisi konten yang akan ditampilkan...</tagname>
+```
+Bentuk dari tag HTML berupa pasangan tagname yang dapat dicontohkan dengan `<h1>` dan `</h1>`. Tag pertama `<h1>` disebut sebagai `start tag` sedangkan tag kedua `</h2>` disebut sebagai `end tag` dimana penulisannya sama dengan start tag dengan ditambahkan tanda slash (`/`) didepannya.
